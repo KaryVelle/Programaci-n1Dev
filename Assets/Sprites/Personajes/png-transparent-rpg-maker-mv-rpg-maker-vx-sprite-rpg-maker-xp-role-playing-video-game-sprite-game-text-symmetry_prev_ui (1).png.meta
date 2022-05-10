@@ -1,169 +1,223 @@
 fileFormatVersion: 2
-guid: 7d25f94910ab6ef46aa92b2b77e6193f
+guid: 276a8275ffafef14e8834ec83a56e55c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2674478597544381231
-    second: PERSONAJE2_prev_ui (1)_0
+      213: -2852103928587854779
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_0
   - first:
-      213: -7604802670228532397
-    second: PERSONAJE2_prev_ui (1)_1
+      213: 4018053974751584926
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_1
   - first:
-      213: 9093946551061907813
-    second: PERSONAJE2_prev_ui (1)_2
+      213: 8033125206807424519
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_2
   - first:
-      213: -6276978325909791439
-    second: PERSONAJE2_prev_ui (1)_3
+      213: -4802749445359471103
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_3
   - first:
-      213: -5078092068040439872
-    second: PERSONAJE2_prev_ui (1)_4
+      213: -6109777937589227957
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_4
   - first:
-      213: -2103497222245132772
-    second: PERSONAJE2_prev_ui (1)_5
+      213: -5683258648385250540
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_5
   - first:
-      213: 4315169129981683704
-    second: PERSONAJE2_prev_ui (1)_6
+      213: -3028086718385316941
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_6
   - first:
-      213: -5161870692538809547
-    second: PERSONAJE2_prev_ui (1)_7
+      213: 9218105539981382459
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_7
   - first:
-      213: 3010018557440602648
-    second: PERSONAJE2_prev_ui (1)_8
+      213: 2547622040039321377
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_8
   - first:
-      213: -6727601426798971065
-    second: PERSONAJE2_prev_ui (1)_9
+      213: 1959789052994563322
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_9
   - first:
-      213: -2081277101984172097
-    second: PERSONAJE2_prev_ui (1)_10
+      213: 3820955554484683779
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_10
   - first:
-      213: -4799924922375134288
-    second: PERSONAJE2_prev_ui (1)_11
+      213: 4040259787836129471
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_11
   - first:
-      213: 602615085300674314
-    second: PERSONAJE2_prev_ui (1)_12
+      213: 2234998471853049234
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_12
   - first:
-      213: 519879343123719775
-    second: PERSONAJE2_prev_ui (1)_13
+      213: -611006708251329794
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_13
   - first:
-      213: 3744800896568320227
-    second: PERSONAJE2_prev_ui (1)_14
+      213: 2399965763034355900
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_14
   - first:
-      213: -6720017862936982061
-    second: PERSONAJE2_prev_ui (1)_15
+      213: -1135108499222623533
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_15
   - first:
-      213: 7322091855699990654
-    second: PERSONAJE2_prev_ui (1)_16
+      213: -99550556701540616
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_16
   - first:
-      213: -7933951334760675074
-    second: PERSONAJE2_prev_ui (1)_17
+      213: 316637676560022115
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_17
   - first:
-      213: 3344598353444159846
-    second: PERSONAJE2_prev_ui (1)_18
+      213: -9072134525022054240
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_18
   - first:
-      213: -8772805830164123201
-    second: PERSONAJE2_prev_ui (1)_19
+      213: -2155353420843815744
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_19
   - first:
-      213: -5199073209960404337
-    second: PERSONAJE2_prev_ui (1)_20
+      213: -836186796700714055
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_20
   - first:
-      213: -3211275976164311729
-    second: PERSONAJE2_prev_ui (1)_21
+      213: -7610449807585084188
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_21
   - first:
-      213: 4258347390053466508
-    second: PERSONAJE2_prev_ui (1)_22
+      213: -8382185085045518344
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_22
   - first:
-      213: 7212549397650760372
-    second: PERSONAJE2_prev_ui (1)_23
+      213: -3466853171019588359
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_23
   - first:
-      213: -970191160289302539
-    second: PERSONAJE2_prev_ui (1)_24
+      213: -537032524821396359
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_24
   - first:
-      213: 1412491584870886599
-    second: PERSONAJE2_prev_ui (1)_25
+      213: 7576647686925059073
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_25
   - first:
-      213: 822141519495152240
-    second: PERSONAJE2_prev_ui (1)_26
+      213: 306202941000315682
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_26
   - first:
-      213: -2981526548979598016
-    second: PERSONAJE2_prev_ui (1)_27
+      213: -7323679271665916981
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_27
   - first:
-      213: -2817423194882869033
-    second: PERSONAJE2_prev_ui (1)_28
+      213: 6231801027671085831
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_28
   - first:
-      213: -688138553193615815
-    second: PERSONAJE2_prev_ui (1)_29
+      213: 5627892572733475760
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_29
   - first:
-      213: 4646869447992557076
-    second: PERSONAJE2_prev_ui (1)_30
+      213: 4826385464021290318
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_30
   - first:
-      213: -538205606261235922
-    second: PERSONAJE2_prev_ui (1)_31
+      213: -289614129830674189
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_31
   - first:
-      213: -3369434697863737178
-    second: PERSONAJE2_prev_ui (1)_32
+      213: 7745705055348967388
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_32
   - first:
-      213: 8555871522183694216
-    second: PERSONAJE2_prev_ui (1)_33
+      213: -8766075153726524283
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_33
   - first:
-      213: 1618537279244221647
-    second: PERSONAJE2_prev_ui (1)_34
+      213: 4462943578315626003
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_34
   - first:
-      213: 1578262194778729855
-    second: PERSONAJE2_prev_ui (1)_35
+      213: -6463297365501183218
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_35
   - first:
-      213: 3318556784937579889
-    second: PERSONAJE2_prev_ui (1)_36
+      213: -5660063120652471891
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_36
   - first:
-      213: 5291519517959022842
-    second: PERSONAJE2_prev_ui (1)_37
+      213: 4850925658510764907
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_37
   - first:
-      213: 7509784866638180879
-    second: PERSONAJE2_prev_ui (1)_38
+      213: 2216565769045616357
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_38
   - first:
-      213: -948604787006456471
-    second: PERSONAJE2_prev_ui (1)_39
+      213: -6922811835899505842
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_39
   - first:
-      213: -1335919474351824876
-    second: PERSONAJE2_prev_ui (1)_40
+      213: 2924464856969216147
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_40
   - first:
-      213: -2087887936766922571
-    second: PERSONAJE2_prev_ui (1)_41
+      213: -8485802613108346362
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_41
   - first:
-      213: -1150343795049026694
-    second: PERSONAJE2_prev_ui (1)_42
+      213: 8090965443957978968
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_42
   - first:
-      213: -2241043267344492593
-    second: PERSONAJE2_prev_ui (1)_43
+      213: -7064160264085570678
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_43
   - first:
-      213: -8176491988664962580
-    second: PERSONAJE2_prev_ui (1)_44
+      213: 3147031810841442724
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_44
   - first:
-      213: 2497932173758029621
-    second: PERSONAJE2_prev_ui (1)_45
+      213: -2231097797769620106
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_45
   - first:
-      213: -5541153774885058860
-    second: PERSONAJE2_prev_ui (1)_46
+      213: 5203161558098172224
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_46
   - first:
-      213: 6375428659468350282
-    second: PERSONAJE2_prev_ui (1)_47
+      213: 6775808162642197475
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_47
   - first:
-      213: -2665171090002732058
-    second: PERSONAJE2_prev_ui (1)_48
+      213: -8318014489484669877
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_48
   - first:
-      213: -6781238203590655122
-    second: PERSONAJE2_prev_ui (1)_49
+      213: 7161106005850567235
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_49
   - first:
-      213: -6717275336674541250
-    second: PERSONAJE2_prev_ui (1)_50
+      213: 5630973803221386625
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_50
   - first:
-      213: -5420996316477091133
-    second: PERSONAJE2_prev_ui (1)_51
+      213: -9032460030860846167
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_51
   - first:
-      213: 1357319773409173187
-    second: PERSONAJE2_prev_ui (1)_52
+      213: -435665097759815312
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_52
   - first:
-      213: -4094604382854947309
-    second: PERSONAJE2_prev_ui (1)_53
+      213: -5861946816428567585
+    second: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+      (1)_53
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -253,7 +307,8 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_0
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -267,14 +322,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2b840e4d18ad1520800000000000000
-      internalID: 2674478597544381231
+      spriteID: 54c560a869a4b68d0800000000000000
+      internalID: -2852103928587854779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_1
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_1
       rect:
         serializedVersion: 2
         x: 68
@@ -288,14 +344,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 353161e6340567690800000000000000
-      internalID: -7604802670228532397
+      spriteID: e922a6d2dcef2c730800000000000000
+      internalID: 4018053974751584926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_2
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_2
       rect:
         serializedVersion: 2
         x: 136
@@ -309,14 +366,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5690f66d430343e70800000000000000
-      internalID: 9093946551061907813
+      spriteID: 70e2ef370d46b7f60800000000000000
+      internalID: 8033125206807424519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_3
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_3
       rect:
         serializedVersion: 2
         x: 204
@@ -330,14 +388,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13d125d2871b3e8a0800000000000000
-      internalID: -6276978325909791439
+      spriteID: 106f42453d4395db0800000000000000
+      internalID: -4802749445359471103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_4
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_4
       rect:
         serializedVersion: 2
         x: 272
@@ -351,14 +410,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c788b34b2ef689b0800000000000000
-      internalID: -5078092068040439872
+      spriteID: b4ea9753655b53ba0800000000000000
+      internalID: -6109777937589227957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_5
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_5
       rect:
         serializedVersion: 2
         x: 340
@@ -372,14 +432,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c16de02db60eec2e0800000000000000
-      internalID: -2103497222245132772
+      spriteID: 41b9458de520121b0800000000000000
+      internalID: -5683258648385250540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_6
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_6
       rect:
         serializedVersion: 2
         x: 408
@@ -393,14 +454,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f72a42067f82eb30800000000000000
-      internalID: 4315169129981683704
+      spriteID: 3bb90915c231af5d0800000000000000
+      internalID: -3028086718385316941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_7
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_7
       rect:
         serializedVersion: 2
         x: 476
@@ -414,14 +476,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53389b234f95d58b0800000000000000
-      internalID: -5161870692538809547
+      spriteID: b3396a4262a4def70800000000000000
+      internalID: 9218105539981382459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_8
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_8
       rect:
         serializedVersion: 2
         x: 544
@@ -435,14 +498,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 812b4932eebb5c920800000000000000
-      internalID: 3010018557440602648
+      spriteID: 12fef7e5fb8fa5320800000000000000
+      internalID: 2547622040039321377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_9
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_9
       rect:
         serializedVersion: 2
         x: 0
@@ -456,14 +520,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7477c3d8522c2a2a0800000000000000
-      internalID: -6727601426798971065
+      spriteID: afca072a2c1923b10800000000000000
+      internalID: 1959789052994563322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_10
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_10
       rect:
         serializedVersion: 2
         x: 68
@@ -477,14 +542,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb73419b081dd13e0800000000000000
-      internalID: -2081277101984172097
+      spriteID: 3048d9f15d2c60530800000000000000
+      internalID: 3820955554484683779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_11
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_11
       rect:
         serializedVersion: 2
         x: 136
@@ -498,14 +564,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b32945d6bd336db0800000000000000
-      internalID: -4799924922375134288
+      spriteID: fb0844eeed2e11830800000000000000
+      internalID: 4040259787836129471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_12
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_12
       rect:
         serializedVersion: 2
         x: 204
@@ -519,14 +586,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0f63af2a3bec5800800000000000000
-      internalID: 602615085300674314
+      spriteID: 2958754c44f440f10800000000000000
+      internalID: 2234998471853049234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_13
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_13
       rect:
         serializedVersion: 2
         x: 272
@@ -540,14 +608,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f56e3f4128bf63700800000000000000
-      internalID: 519879343123719775
+      spriteID: efa7c47d2a44587f0800000000000000
+      internalID: -611006708251329794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_14
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_14
       rect:
         serializedVersion: 2
         x: 340
@@ -561,14 +630,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e0e48a139438f330800000000000000
-      internalID: 3744800896568320227
+      spriteID: cb813ca55246e4120800000000000000
+      internalID: 2399965763034355900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_15
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_15
       rect:
         serializedVersion: 2
         x: 408
@@ -582,14 +652,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dd8c5b9b53bdb2a0800000000000000
-      internalID: -6720017862936982061
+      spriteID: 3da0f4285d84f30f0800000000000000
+      internalID: -1135108499222623533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_16
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_16
       rect:
         serializedVersion: 2
         x: 476
@@ -603,14 +674,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7857c7afbb4d9560800000000000000
-      internalID: 7322091855699990654
+      spriteID: 8febc9ecb435e9ef0800000000000000
+      internalID: -99550556701540616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_17
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_17
       rect:
         serializedVersion: 2
         x: 544
@@ -624,14 +696,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef88a520c41f4e190800000000000000
-      internalID: -7933951334760675074
+      spriteID: 36a7dd90a4ce46400800000000000000
+      internalID: 316637676560022115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_18
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_18
       rect:
         serializedVersion: 2
         x: 0
@@ -645,14 +718,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66145656b766a6e20800000000000000
-      internalID: 3344598353444159846
+      spriteID: 0a8d08937bd491280800000000000000
+      internalID: -9072134525022054240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_19
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_19
       rect:
         serializedVersion: 2
         x: 68
@@ -666,14 +740,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb17799e39bb04680800000000000000
-      internalID: -8772805830164123201
+      spriteID: 0cc6e29bb75a612e0800000000000000
+      internalID: -2155353420843815744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_20
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_20
       rect:
         serializedVersion: 2
         x: 136
@@ -687,14 +762,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8a6f0f167e29d7b0800000000000000
-      internalID: -5199073209960404337
+      spriteID: 9bb38c8e9844564f0800000000000000
+      internalID: -836186796700714055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_21
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_21
       rect:
         serializedVersion: 2
         x: 204
@@ -708,14 +784,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4dfaf483814f63d0800000000000000
-      internalID: -3211275976164311729
+      spriteID: 4ec73fdc830426690800000000000000
+      internalID: -7610449807585084188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_22
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_22
       rect:
         serializedVersion: 2
         x: 272
@@ -729,14 +806,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c81495ab360b81b30800000000000000
-      internalID: 4258347390053466508
+      spriteID: 8ffc84c631f7cab80800000000000000
+      internalID: -8382185085045518344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_23
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_23
       rect:
         serializedVersion: 2
         x: 340
@@ -750,14 +828,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b26ee3a67f181460800000000000000
-      internalID: 7212549397650760372
+      spriteID: 9fcd0fcb86343efc0800000000000000
+      internalID: -3466853171019588359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_24
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_24
       rect:
         serializedVersion: 2
         x: 408
@@ -771,14 +850,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f76bbea7403982f0800000000000000
-      internalID: -970191160289302539
+      spriteID: 974803593c31c88f0800000000000000
+      internalID: -537032524821396359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_25
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_25
       rect:
         serializedVersion: 2
         x: 476
@@ -792,14 +872,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cc257cdc9d2a9310800000000000000
-      internalID: 1412491584870886599
+      spriteID: 104047fade8a52960800000000000000
+      internalID: 7576647686925059073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_26
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_26
       rect:
         serializedVersion: 2
         x: 544
@@ -813,14 +894,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 072cb982b55d86b00800000000000000
-      internalID: 822141519495152240
+      spriteID: 223f087d3f9df3400800000000000000
+      internalID: 306202941000315682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_27
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_27
       rect:
         serializedVersion: 2
         x: 0
@@ -834,14 +916,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04dbca7866d7f96d0800000000000000
-      internalID: -2981526548979598016
+      spriteID: bc3267341801d5a90800000000000000
+      internalID: -7323679271665916981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_28
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_28
       rect:
         serializedVersion: 2
         x: 68
@@ -855,14 +938,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d87f07188086e8d0800000000000000
-      internalID: -2817423194882869033
+      spriteID: 703df35640ecb7650800000000000000
+      internalID: 6231801027671085831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_29
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_29
       rect:
         serializedVersion: 2
         x: 136
@@ -876,14 +960,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93ea4acb1ad3376f0800000000000000
-      internalID: -688138553193615815
+      spriteID: 0bb86df1a7a4a1e40800000000000000
+      internalID: 5627892572733475760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_30
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_30
       rect:
         serializedVersion: 2
         x: 204
@@ -897,14 +982,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41e363d842ffc7040800000000000000
-      internalID: 4646869447992557076
+      spriteID: e4d091c1204caf240800000000000000
+      internalID: 4826385464021290318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_31
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_31
       rect:
         serializedVersion: 2
         x: 272
@@ -918,14 +1004,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2fdca64ad8e788f0800000000000000
-      internalID: -538205606261235922
+      spriteID: 3f0428dbb751bfbf0800000000000000
+      internalID: -289614129830674189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_32
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_32
       rect:
         serializedVersion: 2
         x: 340
@@ -939,14 +1026,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a0d4fb8efc5d31d0800000000000000
-      internalID: -3369434697863737178
+      spriteID: cd7c50795b54e7b60800000000000000
+      internalID: 7745705055348967388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_33
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_33
       rect:
         serializedVersion: 2
         x: 408
@@ -960,14 +1048,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 887c3a781df8cb670800000000000000
-      internalID: 8555871522183694216
+      spriteID: 584b0c3a715a85680800000000000000
+      internalID: -8766075153726524283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_34
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_34
       rect:
         serializedVersion: 2
         x: 476
@@ -981,14 +1070,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcc34118413367610800000000000000
-      internalID: 1618537279244221647
+      spriteID: 3161d1ee98f8fed30800000000000000
+      internalID: 4462943578315626003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_35
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_35
       rect:
         serializedVersion: 2
         x: 544
@@ -1002,14 +1092,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7de63aaa1d17e510800000000000000
-      internalID: 1578262194778729855
+      spriteID: e0b75934a41cd46a0800000000000000
+      internalID: -6463297365501183218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_36
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_36
       rect:
         serializedVersion: 2
         x: 0
@@ -1023,14 +1114,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 175ba2d30d1ed0e20800000000000000
-      internalID: 3318556784937579889
+      spriteID: da1783f749a6371b0800000000000000
+      internalID: -5660063120652471891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_37
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_37
       rect:
         serializedVersion: 2
         x: 68
@@ -1044,14 +1136,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af86ef547f04f6940800000000000000
-      internalID: 5291519517959022842
+      spriteID: b6bac536f23f15340800000000000000
+      internalID: 4850925658510764907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_38
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_38
       rect:
         serializedVersion: 2
         x: 136
@@ -1065,14 +1158,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f02b2933c8d183860800000000000000
-      internalID: 7509784866638180879
+      spriteID: 5e62145b2d2d2ce10800000000000000
+      internalID: 2216565769045616357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_39
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_39
       rect:
         serializedVersion: 2
         x: 204
@@ -1086,14 +1180,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96dbe3ed8f0e5d2f0800000000000000
-      internalID: -948604787006456471
+      spriteID: e43175a505b3def90800000000000000
+      internalID: -6922811835899505842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_40
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_40
       rect:
         serializedVersion: 2
         x: 272
@@ -1107,14 +1202,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 410abbae05cd57de0800000000000000
-      internalID: -1335919474351824876
+      spriteID: 39083cdfa49c59820800000000000000
+      internalID: 2924464856969216147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_41
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_41
       rect:
         serializedVersion: 2
         x: 340
@@ -1128,14 +1224,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b03f2ecbf45603e0800000000000000
-      internalID: -2087887936766922571
+      spriteID: 602789bab7f5c3a80800000000000000
+      internalID: -8485802613108346362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_42
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_42
       rect:
         serializedVersion: 2
         x: 408
@@ -1149,14 +1246,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7b2786c9682900f0800000000000000
-      internalID: -1150343795049026694
+      spriteID: 85773191432e84070800000000000000
+      internalID: 8090965443957978968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_43
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_43
       rect:
         serializedVersion: 2
         x: 476
@@ -1170,14 +1268,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc796ab950736e0e0800000000000000
-      internalID: -2241043267344492593
+      spriteID: a8bffb6daaf07fd90800000000000000
+      internalID: -7064160264085570678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_44
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_44
       rect:
         serializedVersion: 2
         x: 544
@@ -1191,14 +1290,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce13cc27bd3478e80800000000000000
-      internalID: -8176491988664962580
+      spriteID: 4a9fe0e12c08cab20800000000000000
+      internalID: 3147031810841442724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_45
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_45
       rect:
         serializedVersion: 2
         x: 0
@@ -1212,14 +1312,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53fddd1d3107aa220800000000000000
-      internalID: 2497932173758029621
+      spriteID: 67519c0bf5c8901e0800000000000000
+      internalID: -2231097797769620106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_46
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_46
       rect:
         serializedVersion: 2
         x: 68
@@ -1233,14 +1334,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d64922000ed913b0800000000000000
-      internalID: -5541153774885058860
+      spriteID: 049d86b9ed7553840800000000000000
+      internalID: 5203161558098172224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_47
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_47
       rect:
         serializedVersion: 2
         x: 136
@@ -1254,14 +1356,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a43b47a56921a7850800000000000000
-      internalID: 6375428659468350282
+      spriteID: 3ebfa78cf91880e50800000000000000
+      internalID: 6775808162642197475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_48
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_48
       rect:
         serializedVersion: 2
         x: 204
@@ -1275,14 +1378,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6eb1fbaa309630bd0800000000000000
-      internalID: -2665171090002732058
+      spriteID: b4cc6bd74e9709c80800000000000000
+      internalID: -8318014489484669877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_49
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_49
       rect:
         serializedVersion: 2
         x: 272
@@ -1296,14 +1400,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e63cba948c334e1a0800000000000000
-      internalID: -6781238203590655122
+      spriteID: 342b3ad98fb516360800000000000000
+      internalID: 7161106005850567235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_50
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_50
       rect:
         serializedVersion: 2
         x: 340
@@ -1317,14 +1422,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e318503cba177c2a0800000000000000
-      internalID: -6717275336674541250
+      spriteID: 1858a8007dc352e40800000000000000
+      internalID: 5630973803221386625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_51
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_51
       rect:
         serializedVersion: 2
         x: 408
@@ -1338,14 +1444,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c29ea36290c4c4b0800000000000000
-      internalID: -5420996316477091133
+      spriteID: 9ab10ac357146a280800000000000000
+      internalID: -9032460030860846167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_52
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_52
       rect:
         serializedVersion: 2
         x: 476
@@ -1359,14 +1466,15 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cedaac742b26d210800000000000000
-      internalID: 1357319773409173187
+      spriteID: 0798dfed6e434f9f0800000000000000
+      internalID: -435665097759815312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_53
+      name: png-transparent-rpg-maker-mv-rpg-maker-vx-sprite-rpg-maker-xp-role-playing-video-game-sprite-game-text-symmetry_prev_ui
+        (1)_53
       rect:
         serializedVersion: 2
         x: 544
@@ -1380,8 +1488,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e5c28020b0d27c0800000000000000
-      internalID: -4094604382854947309
+      spriteID: fd31b8aad6e26aea0800000000000000
+      internalID: -5861946816428567585
       vertices: []
       indices: 
       edges: []

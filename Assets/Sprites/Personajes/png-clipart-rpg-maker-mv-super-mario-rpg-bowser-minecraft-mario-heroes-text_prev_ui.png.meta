@@ -1,169 +1,169 @@
 fileFormatVersion: 2
-guid: 7d25f94910ab6ef46aa92b2b77e6193f
+guid: c2dfec745d6020540961f0391ccfcb92
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2674478597544381231
-    second: PERSONAJE2_prev_ui (1)_0
+      213: 690180117981810738
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_0
   - first:
-      213: -7604802670228532397
-    second: PERSONAJE2_prev_ui (1)_1
+      213: 6311341535189531617
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_1
   - first:
-      213: 9093946551061907813
-    second: PERSONAJE2_prev_ui (1)_2
+      213: 1444460360384721000
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_2
   - first:
-      213: -6276978325909791439
-    second: PERSONAJE2_prev_ui (1)_3
+      213: -1643488338248934610
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_3
   - first:
-      213: -5078092068040439872
-    second: PERSONAJE2_prev_ui (1)_4
+      213: -8662271971251061224
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_4
   - first:
-      213: -2103497222245132772
-    second: PERSONAJE2_prev_ui (1)_5
+      213: 1799907140301555814
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_5
   - first:
-      213: 4315169129981683704
-    second: PERSONAJE2_prev_ui (1)_6
+      213: -2076103077139458820
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_6
   - first:
-      213: -5161870692538809547
-    second: PERSONAJE2_prev_ui (1)_7
+      213: -9156501490938325679
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_7
   - first:
-      213: 3010018557440602648
-    second: PERSONAJE2_prev_ui (1)_8
+      213: 3341121742740725923
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_8
   - first:
-      213: -6727601426798971065
-    second: PERSONAJE2_prev_ui (1)_9
+      213: -9049959173132149134
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_9
   - first:
-      213: -2081277101984172097
-    second: PERSONAJE2_prev_ui (1)_10
+      213: 5238772991333911585
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_10
   - first:
-      213: -4799924922375134288
-    second: PERSONAJE2_prev_ui (1)_11
+      213: -1158321889262731264
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_11
   - first:
-      213: 602615085300674314
-    second: PERSONAJE2_prev_ui (1)_12
+      213: -2869377356337786487
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_12
   - first:
-      213: 519879343123719775
-    second: PERSONAJE2_prev_ui (1)_13
+      213: 2593007873144694988
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_13
   - first:
-      213: 3744800896568320227
-    second: PERSONAJE2_prev_ui (1)_14
+      213: -1882868473972790580
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_14
   - first:
-      213: -6720017862936982061
-    second: PERSONAJE2_prev_ui (1)_15
+      213: -1960430289224327756
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_15
   - first:
-      213: 7322091855699990654
-    second: PERSONAJE2_prev_ui (1)_16
+      213: 712202993497054857
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_16
   - first:
-      213: -7933951334760675074
-    second: PERSONAJE2_prev_ui (1)_17
+      213: -460882590077026222
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_17
   - first:
-      213: 3344598353444159846
-    second: PERSONAJE2_prev_ui (1)_18
+      213: 6621418475567808109
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_18
   - first:
-      213: -8772805830164123201
-    second: PERSONAJE2_prev_ui (1)_19
+      213: -1552132769253274496
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_19
   - first:
-      213: -5199073209960404337
-    second: PERSONAJE2_prev_ui (1)_20
+      213: 17124262689955336
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_20
   - first:
-      213: -3211275976164311729
-    second: PERSONAJE2_prev_ui (1)_21
+      213: 7833946226380284356
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_21
   - first:
-      213: 4258347390053466508
-    second: PERSONAJE2_prev_ui (1)_22
+      213: -9010823505315741016
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_22
   - first:
-      213: 7212549397650760372
-    second: PERSONAJE2_prev_ui (1)_23
+      213: 6368259918330635184
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_23
   - first:
-      213: -970191160289302539
-    second: PERSONAJE2_prev_ui (1)_24
+      213: -7149891307731650874
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_24
   - first:
-      213: 1412491584870886599
-    second: PERSONAJE2_prev_ui (1)_25
+      213: -661576230900616227
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_25
   - first:
-      213: 822141519495152240
-    second: PERSONAJE2_prev_ui (1)_26
+      213: 5408512198304374640
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_26
   - first:
-      213: -2981526548979598016
-    second: PERSONAJE2_prev_ui (1)_27
+      213: -1383791775711550263
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_27
   - first:
-      213: -2817423194882869033
-    second: PERSONAJE2_prev_ui (1)_28
+      213: 5716006793491244958
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_28
   - first:
-      213: -688138553193615815
-    second: PERSONAJE2_prev_ui (1)_29
+      213: -5711766398042042804
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_29
   - first:
-      213: 4646869447992557076
-    second: PERSONAJE2_prev_ui (1)_30
+      213: 1648967780588257453
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_30
   - first:
-      213: -538205606261235922
-    second: PERSONAJE2_prev_ui (1)_31
+      213: -276272210149811500
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_31
   - first:
-      213: -3369434697863737178
-    second: PERSONAJE2_prev_ui (1)_32
+      213: 7815431280015817248
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_32
   - first:
-      213: 8555871522183694216
-    second: PERSONAJE2_prev_ui (1)_33
+      213: -549088460948859800
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_33
   - first:
-      213: 1618537279244221647
-    second: PERSONAJE2_prev_ui (1)_34
+      213: -2636300993900063461
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_34
   - first:
-      213: 1578262194778729855
-    second: PERSONAJE2_prev_ui (1)_35
+      213: -8042913298953034841
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_35
   - first:
-      213: 3318556784937579889
-    second: PERSONAJE2_prev_ui (1)_36
+      213: 592051058800426598
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_36
   - first:
-      213: 5291519517959022842
-    second: PERSONAJE2_prev_ui (1)_37
+      213: -8360918336329924837
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_37
   - first:
-      213: 7509784866638180879
-    second: PERSONAJE2_prev_ui (1)_38
+      213: 3007106999036636798
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_38
   - first:
-      213: -948604787006456471
-    second: PERSONAJE2_prev_ui (1)_39
+      213: 5474233437014885855
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_39
   - first:
-      213: -1335919474351824876
-    second: PERSONAJE2_prev_ui (1)_40
+      213: -4426276877298333656
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_40
   - first:
-      213: -2087887936766922571
-    second: PERSONAJE2_prev_ui (1)_41
+      213: -2711044475706244349
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_41
   - first:
-      213: -1150343795049026694
-    second: PERSONAJE2_prev_ui (1)_42
+      213: 4545550789016385825
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_42
   - first:
-      213: -2241043267344492593
-    second: PERSONAJE2_prev_ui (1)_43
+      213: -5195349763285044620
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_43
   - first:
-      213: -8176491988664962580
-    second: PERSONAJE2_prev_ui (1)_44
+      213: -537709039463669363
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_44
   - first:
-      213: 2497932173758029621
-    second: PERSONAJE2_prev_ui (1)_45
+      213: -8506711711231416419
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_45
   - first:
-      213: -5541153774885058860
-    second: PERSONAJE2_prev_ui (1)_46
+      213: 2351495607731130668
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_46
   - first:
-      213: 6375428659468350282
-    second: PERSONAJE2_prev_ui (1)_47
+      213: 3419249389146346324
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_47
   - first:
-      213: -2665171090002732058
-    second: PERSONAJE2_prev_ui (1)_48
+      213: 4707701933449817914
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_48
   - first:
-      213: -6781238203590655122
-    second: PERSONAJE2_prev_ui (1)_49
+      213: 559860255194094767
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_49
   - first:
-      213: -6717275336674541250
-    second: PERSONAJE2_prev_ui (1)_50
+      213: 4588985925001424577
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_50
   - first:
-      213: -5420996316477091133
-    second: PERSONAJE2_prev_ui (1)_51
+      213: 3966003286238286624
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_51
   - first:
-      213: 1357319773409173187
-    second: PERSONAJE2_prev_ui (1)_52
+      213: 1418665994282741490
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_52
   - first:
-      213: -4094604382854947309
-    second: PERSONAJE2_prev_ui (1)_53
+      213: -4554048080840802404
+    second: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_53
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -253,12 +253,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_0
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_0
       rect:
         serializedVersion: 2
         x: 0
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -267,19 +267,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2b840e4d18ad1520800000000000000
-      internalID: 2674478597544381231
+      spriteID: 230d75b1923049900800000000000000
+      internalID: 690180117981810738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_1
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_1
       rect:
         serializedVersion: 2
-        x: 68
+        x: 67
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -288,19 +288,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 353161e6340567690800000000000000
-      internalID: -7604802670228532397
+      spriteID: 1ebf325ffa3669750800000000000000
+      internalID: 6311341535189531617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_2
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_2
       rect:
         serializedVersion: 2
-        x: 136
+        x: 134
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -309,19 +309,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5690f66d430343e70800000000000000
-      internalID: 9093946551061907813
+      spriteID: 8603dd07b01cb0410800000000000000
+      internalID: 1444460360384721000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_3
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_3
       rect:
         serializedVersion: 2
-        x: 204
+        x: 201
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -330,19 +330,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13d125d2871b3e8a0800000000000000
-      internalID: -6276978325909791439
+      spriteID: e2bdc2e50182139e0800000000000000
+      internalID: -1643488338248934610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_4
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_4
       rect:
         serializedVersion: 2
-        x: 272
+        x: 268
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -351,19 +351,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c788b34b2ef689b0800000000000000
-      internalID: -5078092068040439872
+      spriteID: 81ef1cd698d69c780800000000000000
+      internalID: -8662271971251061224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_5
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_5
       rect:
         serializedVersion: 2
-        x: 340
+        x: 335
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -372,19 +372,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c16de02db60eec2e0800000000000000
-      internalID: -2103497222245132772
+      spriteID: 6680d5ef10e8af810800000000000000
+      internalID: 1799907140301555814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_6
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_6
       rect:
         serializedVersion: 2
-        x: 408
+        x: 402
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -393,19 +393,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f72a42067f82eb30800000000000000
-      internalID: 4315169129981683704
+      spriteID: cf4d10240433033e0800000000000000
+      internalID: -2076103077139458820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_7
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_7
       rect:
         serializedVersion: 2
-        x: 476
+        x: 469
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -414,19 +414,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53389b234f95d58b0800000000000000
-      internalID: -5161870692538809547
+      spriteID: 155594f38629de080800000000000000
+      internalID: -9156501490938325679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_8
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_8
       rect:
         serializedVersion: 2
-        x: 544
+        x: 536
         y: 340
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -435,19 +435,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 812b4932eebb5c920800000000000000
-      internalID: 3010018557440602648
+      spriteID: 3a02563e58c0e5e20800000000000000
+      internalID: 3341121742740725923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_9
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_9
       rect:
         serializedVersion: 2
         x: 0
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -456,19 +456,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7477c3d8522c2a2a0800000000000000
-      internalID: -6727601426798971065
+      spriteID: 27e9bada416186280800000000000000
+      internalID: -9049959173132149134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_10
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_10
       rect:
         serializedVersion: 2
-        x: 68
+        x: 67
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -477,19 +477,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb73419b081dd13e0800000000000000
-      internalID: -2081277101984172097
+      spriteID: 12c4e57874cd3b840800000000000000
+      internalID: 5238772991333911585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_11
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_11
       rect:
         serializedVersion: 2
-        x: 136
+        x: 134
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -498,19 +498,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b32945d6bd336db0800000000000000
-      internalID: -4799924922375134288
+      spriteID: 0008fe6f060dcefe0800000000000000
+      internalID: -1158321889262731264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_12
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_12
       rect:
         serializedVersion: 2
-        x: 204
+        x: 201
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -519,19 +519,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0f63af2a3bec5800800000000000000
-      internalID: 602615085300674314
+      spriteID: 981dfec3f7ced28d0800000000000000
+      internalID: -2869377356337786487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_13
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_13
       rect:
         serializedVersion: 2
-        x: 272
+        x: 268
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -540,19 +540,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f56e3f4128bf63700800000000000000
-      internalID: 519879343123719775
+      spriteID: cc8a49a1ce63cf320800000000000000
+      internalID: 2593007873144694988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_14
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_14
       rect:
         serializedVersion: 2
-        x: 340
+        x: 335
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -561,19 +561,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e0e48a139438f330800000000000000
-      internalID: 3744800896568320227
+      spriteID: ccae11a4915bed5e0800000000000000
+      internalID: -1882868473972790580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_15
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_15
       rect:
         serializedVersion: 2
-        x: 408
+        x: 402
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -582,19 +582,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dd8c5b9b53bdb2a0800000000000000
-      internalID: -6720017862936982061
+      spriteID: 4bd1edbe9072bc4e0800000000000000
+      internalID: -1960430289224327756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_16
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_16
       rect:
         serializedVersion: 2
-        x: 476
+        x: 469
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -603,19 +603,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7857c7afbb4d9560800000000000000
-      internalID: 7322091855699990654
+      spriteID: 98e9c5369d042e900800000000000000
+      internalID: 712202993497054857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_17
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_17
       rect:
         serializedVersion: 2
-        x: 544
+        x: 536
         y: 272
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -624,19 +624,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef88a520c41f4e190800000000000000
-      internalID: -7933951334760675074
+      spriteID: 2500c47e9bd9a99f0800000000000000
+      internalID: -460882590077026222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_18
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_18
       rect:
         serializedVersion: 2
         x: 0
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -645,19 +645,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66145656b766a6e20800000000000000
-      internalID: 3344598353444159846
+      spriteID: d6e7d61950104eb50800000000000000
+      internalID: 6621418475567808109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_19
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_19
       rect:
         serializedVersion: 2
-        x: 68
+        x: 67
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -666,19 +666,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb17799e39bb04680800000000000000
-      internalID: -8772805830164123201
+      spriteID: 08c4a6c4877b57ae0800000000000000
+      internalID: -1552132769253274496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_20
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_20
       rect:
         serializedVersion: 2
-        x: 136
+        x: 134
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -687,19 +687,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8a6f0f167e29d7b0800000000000000
-      internalID: -5199073209960404337
+      spriteID: 80edcaa1d66dc3000800000000000000
+      internalID: 17124262689955336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_21
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_21
       rect:
         serializedVersion: 2
-        x: 204
+        x: 201
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -708,19 +708,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4dfaf483814f63d0800000000000000
-      internalID: -3211275976164311729
+      spriteID: 4c1a8ec3694c7bc60800000000000000
+      internalID: 7833946226380284356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_22
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_22
       rect:
         serializedVersion: 2
-        x: 272
+        x: 268
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -729,19 +729,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c81495ab360b81b30800000000000000
-      internalID: 4258347390053466508
+      spriteID: 8a24ae763cf13f280800000000000000
+      internalID: -9010823505315741016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_23
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_23
       rect:
         serializedVersion: 2
-        x: 340
+        x: 335
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -750,19 +750,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b26ee3a67f181460800000000000000
-      internalID: 7212549397650760372
+      spriteID: 0b3a47db7aa906850800000000000000
+      internalID: 6368259918330635184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_24
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_24
       rect:
         serializedVersion: 2
-        x: 408
+        x: 402
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -771,19 +771,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f76bbea7403982f0800000000000000
-      internalID: -970191160289302539
+      spriteID: 6c67004ccbb76cc90800000000000000
+      internalID: -7149891307731650874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_25
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_25
       rect:
         serializedVersion: 2
-        x: 476
+        x: 469
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -792,19 +792,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cc257cdc9d2a9310800000000000000
-      internalID: 1412491584870886599
+      spriteID: dd3b3555ceb91d6f0800000000000000
+      internalID: -661576230900616227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_26
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_26
       rect:
         serializedVersion: 2
-        x: 544
+        x: 536
         y: 204
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -813,19 +813,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 072cb982b55d86b00800000000000000
-      internalID: 822141519495152240
+      spriteID: 07f9c475035ee0b40800000000000000
+      internalID: 5408512198304374640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_27
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_27
       rect:
         serializedVersion: 2
         x: 0
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -834,19 +834,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04dbca7866d7f96d0800000000000000
-      internalID: -2981526548979598016
+      spriteID: 9c42b9d26b8cbcce0800000000000000
+      internalID: -1383791775711550263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_28
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_28
       rect:
         serializedVersion: 2
-        x: 68
+        x: 67
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -855,19 +855,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d87f07188086e8d0800000000000000
-      internalID: -2817423194882869033
+      spriteID: e97e3cbd4e5535f40800000000000000
+      internalID: 5716006793491244958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_29
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_29
       rect:
         serializedVersion: 2
-        x: 136
+        x: 134
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -876,19 +876,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93ea4acb1ad3376f0800000000000000
-      internalID: -688138553193615815
+      spriteID: c4e01b429babbb0b0800000000000000
+      internalID: -5711766398042042804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_30
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_30
       rect:
         serializedVersion: 2
-        x: 204
+        x: 201
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -897,19 +897,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41e363d842ffc7040800000000000000
-      internalID: 4646869447992557076
+      spriteID: da00708b57f42e610800000000000000
+      internalID: 1648967780588257453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_31
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_31
       rect:
         serializedVersion: 2
-        x: 272
+        x: 268
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -918,19 +918,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2fdca64ad8e788f0800000000000000
-      internalID: -538205606261235922
+      spriteID: 4da55bc73eb7a2cf0800000000000000
+      internalID: -276272210149811500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_32
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_32
       rect:
         serializedVersion: 2
-        x: 340
+        x: 335
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -939,19 +939,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a0d4fb8efc5d31d0800000000000000
-      internalID: -3369434697863737178
+      spriteID: 02ab1db575df57c60800000000000000
+      internalID: 7815431280015817248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_33
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_33
       rect:
         serializedVersion: 2
-        x: 408
+        x: 402
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -960,19 +960,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 887c3a781df8cb670800000000000000
-      internalID: 8555871522183694216
+      spriteID: 86490e634fe3168f0800000000000000
+      internalID: -549088460948859800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_34
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_34
       rect:
         serializedVersion: 2
-        x: 476
+        x: 469
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -981,19 +981,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcc34118413367610800000000000000
-      internalID: 1618537279244221647
+      spriteID: b15d399b63af96bd0800000000000000
+      internalID: -2636300993900063461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_35
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_35
       rect:
         serializedVersion: 2
-        x: 544
+        x: 536
         y: 136
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1002,19 +1002,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7de63aaa1d17e510800000000000000
-      internalID: 1578262194778729855
+      spriteID: 7a3a3a0c7f4d16090800000000000000
+      internalID: -8042913298953034841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_36
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_36
       rect:
         serializedVersion: 2
         x: 0
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1023,19 +1023,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 175ba2d30d1ed0e20800000000000000
-      internalID: 3318556784937579889
+      spriteID: 66e71b81d43673800800000000000000
+      internalID: 592051058800426598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_37
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_37
       rect:
         serializedVersion: 2
-        x: 68
+        x: 67
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1044,19 +1044,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af86ef547f04f6940800000000000000
-      internalID: 5291519517959022842
+      spriteID: b1f3107321d08fb80800000000000000
+      internalID: -8360918336329924837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_38
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_38
       rect:
         serializedVersion: 2
-        x: 136
+        x: 134
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1065,19 +1065,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f02b2933c8d183860800000000000000
-      internalID: 7509784866638180879
+      spriteID: e7e6b2f12e36bb920800000000000000
+      internalID: 3007106999036636798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_39
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_39
       rect:
         serializedVersion: 2
-        x: 204
+        x: 201
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1086,19 +1086,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96dbe3ed8f0e5d2f0800000000000000
-      internalID: -948604787006456471
+      spriteID: fd586d6ae4268fb40800000000000000
+      internalID: 5474233437014885855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_40
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_40
       rect:
         serializedVersion: 2
-        x: 272
+        x: 268
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1107,19 +1107,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 410abbae05cd57de0800000000000000
-      internalID: -1335919474351824876
+      spriteID: 8288b1ba1a4b292c0800000000000000
+      internalID: -4426276877298333656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_41
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_41
       rect:
         serializedVersion: 2
-        x: 340
+        x: 335
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1128,19 +1128,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b03f2ecbf45603e0800000000000000
-      internalID: -2087887936766922571
+      spriteID: 3038e3fb96f606ad0800000000000000
+      internalID: -2711044475706244349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_42
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_42
       rect:
         serializedVersion: 2
-        x: 408
+        x: 402
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1149,19 +1149,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7b2786c9682900f0800000000000000
-      internalID: -1150343795049026694
+      spriteID: 12971d7fb5a051f30800000000000000
+      internalID: 4545550789016385825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_43
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_43
       rect:
         serializedVersion: 2
-        x: 476
+        x: 469
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1170,19 +1170,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc796ab950736e0e0800000000000000
-      internalID: -2241043267344492593
+      spriteID: 4723c7b9ae866e7b0800000000000000
+      internalID: -5195349763285044620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_44
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_44
       rect:
         serializedVersion: 2
-        x: 544
+        x: 536
         y: 68
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1191,19 +1191,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce13cc27bd3478e80800000000000000
-      internalID: -8176491988664962580
+      spriteID: d81604e3a7ca988f0800000000000000
+      internalID: -537709039463669363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_45
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_45
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1212,19 +1212,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53fddd1d3107aa220800000000000000
-      internalID: 2497932173758029621
+      spriteID: d976565e4c612f980800000000000000
+      internalID: -8506711711231416419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_46
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_46
       rect:
         serializedVersion: 2
-        x: 68
+        x: 67
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1233,19 +1233,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d64922000ed913b0800000000000000
-      internalID: -5541153774885058860
+      spriteID: c2194b5ebc032a020800000000000000
+      internalID: 2351495607731130668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_47
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_47
       rect:
         serializedVersion: 2
-        x: 136
+        x: 134
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1254,19 +1254,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a43b47a56921a7850800000000000000
-      internalID: 6375428659468350282
+      spriteID: 4531a86143d937f20800000000000000
+      internalID: 3419249389146346324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_48
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_48
       rect:
         serializedVersion: 2
-        x: 204
+        x: 201
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1275,19 +1275,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6eb1fbaa309630bd0800000000000000
-      internalID: -2665171090002732058
+      spriteID: a3f22bb47fd155140800000000000000
+      internalID: 4707701933449817914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_49
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_49
       rect:
         serializedVersion: 2
-        x: 272
+        x: 268
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1296,19 +1296,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e63cba948c334e1a0800000000000000
-      internalID: -6781238203590655122
+      spriteID: fac14b29fe505c700800000000000000
+      internalID: 559860255194094767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_50
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_50
       rect:
         serializedVersion: 2
-        x: 340
+        x: 335
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1317,19 +1317,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e318503cba177c2a0800000000000000
-      internalID: -6717275336674541250
+      spriteID: 1ce2af2a26a5faf30800000000000000
+      internalID: 4588985925001424577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_51
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_51
       rect:
         serializedVersion: 2
-        x: 408
+        x: 402
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1338,19 +1338,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c29ea36290c4c4b0800000000000000
-      internalID: -5420996316477091133
+      spriteID: 023d34ed9f21a0730800000000000000
+      internalID: 3966003286238286624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_52
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_52
       rect:
         serializedVersion: 2
-        x: 476
+        x: 469
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1359,19 +1359,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cedaac742b26d210800000000000000
-      internalID: 1357319773409173187
+      spriteID: 2fe2624943d10b310800000000000000
+      internalID: 1418665994282741490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PERSONAJE2_prev_ui (1)_53
+      name: png-clipart-rpg-maker-mv-super-mario-rpg-bowser-minecraft-mario-heroes-text_prev_ui_53
       rect:
         serializedVersion: 2
-        x: 544
+        x: 536
         y: 0
-        width: 68
+        width: 67.888885
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1380,8 +1380,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e5c28020b0d27c0800000000000000
-      internalID: -4094604382854947309
+      spriteID: c9f3f6b1665ccc0c0800000000000000
+      internalID: -4554048080840802404
       vertices: []
       indices: 
       edges: []
